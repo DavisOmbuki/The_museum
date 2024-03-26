@@ -11,40 +11,13 @@
     * User should see showcased art pieces, and details of the artworks in the selected musuem
     * User should be able to request approval  if they require to add artwork to the selected museums
 
-# How To Use
+
 ## Setup Requirements
 * A computer or laptop
 * Internet access
 * Visual Studio Code 
 
-## Using the App
-* In your local terminal:
-    * Clone the repository by running:
-    ```
-    git@github.com:Ron-Maina/The_Museum.git
-    ```
-    * Navigate into the project folder:
-    ```
-    cd The_Museum
-    ```
-    * Open the project files by running 
-    ```
-    code .
-    ```
-    To open them on visual studio 
-    * Install dependencies and enter virtual environment:
-    ```
-    pipenv install 
-    pipenv shell
-    ```
-    * Switch directories to the app folder by running:
-    ```
-    cd app
-    ```
-    * Run the command below to execute the CLI application
-    ```
-    python cli.py open
-    ```
+
 
 
 
